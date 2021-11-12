@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 1em;
+  font-family: Arial;
+  background-color: #c5bebc;
+}
+
+nav a {
+  text-decoration: none;
+  color: #0a0a0a;
+}
+
+div {
+  display: flex;
+  margin: 0 100px;
+}
+
+section {
+  width: 70%;
+  margin-right: 0.3em;
+}
+
+section h5 {
+  color: #483f3d;
+}
+
+section article {
+  padding: 0.5em;
+  background-color: rgb(220, 220, 220);
+}
+
+aside {
+  width: 30%;
+  margin-left: 50px;
+}
+
+aside ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+aside ul ul {
+  padding-left: 20px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 2em;
+}
